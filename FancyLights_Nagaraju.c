@@ -1,7 +1,6 @@
 /************************************************************/
 /************************************************************/
 /*                                                          */
-/* University of California Extension, Santa Cruz           */
 /*                                                          */
 /* The Internet of Things: Communication and Cloud          */
 /*                                                          */
