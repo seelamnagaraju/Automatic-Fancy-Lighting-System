@@ -5,7 +5,6 @@
 /*                                                          */
 /* The Internet of Things: Communication and Cloud          */
 /*                                                          */
-/* Instructor:   Jun Sun                                    */
 /*                                                          */
 /* Author: Nagaraju Seelam                                  */
 /*                                                          */
@@ -14,7 +13,6 @@
 /*                                                          */
 /* File name: Fancy_lighting                                */
 /*                                                          */
-/* Date: 07/15/2016                                         */
 /*                                                          */
 /* Objective:                                               */
 /*  Implementing an Automotive fancy lighting system        */
